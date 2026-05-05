@@ -61,9 +61,9 @@ const Home = () => {
               <Link to="/collection" className="btn-primary flex items-center gap-3">
                 Explore Collection <ArrowRight size={20} />
               </Link>
-              <button className="btn-outline">
+              <a href="#about" className="btn-outline">
                 Watch Story
-              </button>
+              </a>
             </div>
 
             <div className="flex items-center gap-10 pt-10 border-t border-white/10">
