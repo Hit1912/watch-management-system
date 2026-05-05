@@ -31,12 +31,24 @@
 
 @layer base {
   body {
-    @apply bg-background text-foreground font-sans selection:bg-primary selection:text-background;
+    @apply bg-[#0a0a0c] text-white font-sans selection:bg-[#c5a059] selection:text-[#0a0a0c];
+    background-color: #0a0a0c !important;
+    color: white !important;
     scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
   }
 
   h1, h2, h3, h4, h5, h6 {
     @apply font-serif;
+  }
+
+  img:not([src]), img[src=""] {
+    visibility: hidden;
+  }
+  
+  img {
+    content-visibility: auto;
   }
 }
 

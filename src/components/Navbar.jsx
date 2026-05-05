@@ -94,7 +94,7 @@ const Navbar = () => {
                     <div className="space-y-4 max-h-60 overflow-y-auto pr-2 custom-scrollbar">
                       {cartItems.map((item) => (
                         <div key={item.id} className="flex gap-4 items-center">
-                          <img src={item.image} alt={item.name} className="w-12 h-12 bg-white/5 p-1 object-contain" />
+                          <img src={item.image} alt={item.name} referrerPolicy="no-referrer" className="w-12 h-12 bg-white/5 p-1 object-contain" />
                           <div className="flex-grow min-w-0">
                             <p className="text-xs font-bold truncate">{item.name}</p>
                             <p className="text-[10px] text-primary">₹{item.price.toLocaleString('en-IN')}</p>

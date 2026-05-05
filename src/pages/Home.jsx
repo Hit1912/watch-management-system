@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <div className="w-full">
       {/* Hero Section */}
-      <section className="relative min-h-screen astral-gradient flex items-center pt-20 overflow-hidden">
+      <section className="relative min-h-screen bg-[#050505] astral-gradient flex items-center pt-20 overflow-hidden">
         {/* Background Animation / Stars */}
         <div className="absolute inset-0 z-0">
           {[...Array(50)].map((_, i) => (
@@ -90,6 +90,9 @@ const Home = () => {
           >
             <Suspense fallback={<div className="text-primary animate-pulse">Loading Universe...</div>}>
               <Canvas camera={{ position: [0, 0, 10], fov: 45 }}>
+                <ambientLight intensity={1.5} />
+                <pointLight position={[10, 10, 10]} intensity={2} />
+                <spotLight position={[-10, 20, 10]} angle={0.15} penumbra={1} intensity={2} />
                 <WatchScene />
               </Canvas>
             </Suspense>
