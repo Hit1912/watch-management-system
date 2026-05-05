@@ -47,7 +47,7 @@ const Home = () => {
               >
                 Beyond Earthly Precision
               </motion.span>
-              <h1 className="text-6xl md:text-8xl font-bold leading-tight">
+              <h1 className="text-4xl md:text-8xl font-bold leading-tight">
                 THE <span className="gold-text">ASTRAL</span> <br />
                 COLLECTION
               </h1>
@@ -86,16 +86,26 @@ const Home = () => {
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 1, delay: 0.2 }}
-            className="relative h-[600px] flex items-center justify-center"
+            className="relative h-[400px] md:h-[600px] flex items-center justify-center"
           >
-            <Suspense fallback={<div className="text-primary animate-pulse">Loading Universe...</div>}>
-              <Canvas camera={{ position: [0, 0, 10], fov: 45 }}>
-                <ambientLight intensity={1.5} />
-                <pointLight position={[10, 10, 10]} intensity={2} />
-                <spotLight position={[-10, 20, 10]} angle={0.15} penumbra={1} intensity={2} />
-                <WatchScene />
-              </Canvas>
-            </Suspense>
+            <motion.div
+              animate={{ 
+                y: [0, -20, 0],
+                rotate: [0, 2, 0]
+              }}
+              transition={{ 
+                duration: 6,
+                repeat: Infinity,
+                ease: "easeInOut"
+              }}
+              className="w-full h-full flex items-center justify-center p-8"
+            >
+              <img 
+                src="/hero-watch.png" 
+                alt="3D Luxury Watch" 
+                className="max-w-full h-auto drop-shadow-[0_0_50px_rgba(197,160,89,0.4)]"
+              />
+            </motion.div>
             
             {/* Floating Info Badges */}
             <motion.div

@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="space-y-6">
             <Link to="/" className="flex items-center gap-2 group">
               <Watch className="text-primary w-8 h-8" />
-              <span className="font-serif text-2xl font-bold gold-text">BRITIME</span>
+              <span className="font-serif text-2xl font-bold gold-text">SHIVAM WATCH</span>
             </Link>
             <p className="text-foreground/60 leading-relaxed max-w-xs">
               Crafting celestial timepieces for those who look beyond the horizon. Our watches blend cosmic inspiration with earthly precision.
@@ -65,14 +65,14 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-3 text-foreground/60">
                 <Mail size={18} className="text-primary shrink-0" />
-                <span>support@britime.in</span>
+                <span>support@shivamwatch.in</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="pt-10 border-t border-white/5 text-center text-foreground/40 text-sm">
-          <p>&copy; {new Date().getFullYear()} BRITIME Watches. All rights reserved. Designed for the Stars.</p>
+          <p>&copy; {new Date().getFullYear()} SHIVAM WATCH. All rights reserved. Designed for the Stars.</p>
         </div>
       </div>
     </footer>

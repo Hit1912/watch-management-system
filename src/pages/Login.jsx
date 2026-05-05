@@ -84,7 +84,7 @@ const Login = () => {
           </div>
 
           <p className="text-sm text-foreground/40 pt-4">
-            New to Britime? <Link to="/signup" className="text-primary hover:underline font-bold">Create an account</Link>
+            New to Shivam Watch? <Link to="/signup" className="text-primary hover:underline font-bold">Create an account</Link>
           </p>
         </div>
       </motion.div>

@@ -11,7 +11,7 @@ const About = () => {
   ];
 
   const milestones = [
-    { year: '1998', title: 'The Genesis', desc: 'Britime was founded in a small workshop in Geneva, driven by a passion for celestial mechanics.' },
+    { year: '1998', title: 'The Genesis', desc: 'Shivam Watch was founded in a small workshop in Geneva, driven by a passion for celestial mechanics.' },
     { year: '2005', title: 'First Lunar Patent', desc: 'We revolutionized moon-phase accuracy with our proprietary Starlight movement.' },
     { year: '2015', title: 'Global Expansion', desc: 'Opened flagship boutiques in London, New York, and Mumbai.' },
     { year: '2023', title: 'The Astral Era', desc: 'Launched the first luxury watch integrated with blockchain authenticity.' },
@@ -56,7 +56,7 @@ const About = () => {
             <h2 className="text-4xl font-bold font-serif italic">Beyond the Bounds of Time</h2>
             <div className="space-y-6 text-foreground/60 text-lg leading-relaxed">
               <p>
-                Britime was born from a singular vision: to create timepieces that don't just measure seconds, but capture the essence of the cosmos. For over two decades, we have pushed the boundaries of traditional horology.
+                Shivam Watch was born from a singular vision: to create timepieces that don't just measure seconds, but capture the essence of the cosmos. For over two decades, we have pushed the boundaries of traditional horology.
               </p>
               <p>
                 Our master watchmakers combine centuries-old Swiss techniques with cutting-edge aerospace materials. The result is a collection of watches that are as durable as they are beautiful—engineered for the explorers of today and the legends of tomorrow.
@@ -120,7 +120,7 @@ const About = () => {
             "Time is not a cage; it is a gateway to the infinite. We don't just sell watches; we provide the keys to the universe."
           </p>
           <div className="w-20 h-px bg-primary mx-auto" />
-          <p className="text-foreground/40 uppercase tracking-[0.3em] font-bold text-sm">Alexander Britime, Founder</p>
+          <p className="text-foreground/40 uppercase tracking-[0.3em] font-bold text-sm">Shivam, Founder</p>
         </div>
       </div>
     </div>

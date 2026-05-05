@@ -43,7 +43,7 @@ const Navbar = () => {
         <Link to="/" className="flex items-center gap-2 group">
           <Watch className="text-primary w-8 h-8 transition-transform duration-500 group-hover:rotate-180" />
           <span className="font-serif text-2xl font-bold tracking-tighter gold-text">
-            BRITIME
+            SHIVAM WATCH
           </span>
         </Link>
 
@@ -202,7 +202,7 @@ const Navbar = () => {
                   key={link.name}
                   to={link.path}
                   onClick={() => setIsOpen(false)}
-                  className="text-xl font-serif tracking-widest text-foreground hover:text-primary transition-colors"
+                  className="text-2xl font-serif tracking-[0.2em] text-foreground hover:text-primary transition-colors border-b border-white/5 pb-2"
                 >
                   {link.name}
                 </Link>

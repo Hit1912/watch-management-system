@@ -60,7 +60,7 @@ const Contact = () => {
                   </div>
                   <div className="space-y-1">
                     <p className="font-bold text-sm uppercase tracking-widest">Digital Liaison</p>
-                    <p className="text-foreground/60 text-sm font-medium">support@britime.in</p>
+                    <p className="text-foreground/60 text-sm font-medium">support@shivamwatch.in</p>
                     <p className="text-xs text-foreground/40">Response within 2 hours</p>
                   </div>
                 </div>

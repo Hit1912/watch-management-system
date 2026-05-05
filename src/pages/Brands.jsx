@@ -46,12 +46,12 @@ const Brands = () => {
             />
           </div>
 
-          <div className="flex flex-wrap gap-3 justify-center">
+          <div className="flex overflow-x-auto gap-3 pb-4 no-scrollbar w-full md:w-auto scroll-smooth">
             {brands.map((brand) => (
               <button
                 key={brand}
                 onClick={() => setSelectedBrand(brand)}
-                className={`px-6 py-2 text-xs font-bold uppercase tracking-widest border transition-all duration-300 ${
+                className={`px-6 py-2 text-[10px] font-bold uppercase tracking-widest border transition-all duration-300 shrink-0 ${
                   selectedBrand === brand 
                     ? 'bg-primary border-primary text-background' 
                     : 'bg-transparent border-white/10 text-foreground/50 hover:border-primary/50 hover:text-primary'
