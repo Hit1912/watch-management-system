@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-background: #0a0a0a;
+  --color-foreground: #ffffff;
+  --color-primary: #c5a059;
+  --color-primary-hover: #d4b87d;
+  --color-primary-muted: #8c6e3d;
+  --color-secondary: #1a1a1a;
+  --color-secondary-hover: #2a2a2a;
+  --color-accent-gold: #c5a059;
+  --color-accent-silver: #e5e7eb;
+
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Inter", sans-serif;
+
+  --animate-pulse-slow: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  --animate-float: float 6s ease-in-out infinite;
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+  }
+
+  @keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground font-sans selection:bg-primary selection:text-background;
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .glass-morphism {
+    @apply bg-white/5 backdrop-blur-md border border-white/10;
+  }
+  
+  .glass-card {
+    @apply bg-white/[0.02] backdrop-blur-sm border border-white/5 hover:border-primary/30 transition-colors duration-300;
+  }
+
+  .btn-primary {
+    @apply px-8 py-3 bg-primary text-background font-semibold uppercase tracking-widest hover:bg-primary-hover transition-all duration-300 rounded-none transform active:scale-95;
+  }
+
+  .btn-outline {
+    @apply px-8 py-3 border border-primary text-primary font-semibold uppercase tracking-widest hover:bg-primary hover:text-background transition-all duration-300 rounded-none transform active:scale-95;
+  }
+
+  .nav-link {
+    @apply text-foreground/70 hover:text-primary transition-colors duration-200 uppercase tracking-widest text-sm font-medium;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-background;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-primary/20 hover:bg-primary/40 transition-colors rounded-full;
+}
+
+.astral-gradient {
+  background: radial-gradient(circle at center, #1a1a2e 0%, #0a0a0a 100%);
+}
+
+.gold-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-[#c5a059] via-[#f7e4a1] to-[#8c6e3d];
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 40s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}

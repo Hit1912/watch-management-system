@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "brand": "Rolex",
+    "name": "Rolex Submariner 1",
+    "price": 10494,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOkKbbqeHfiawp7_29rMuvjT7skHLS4p6HN6ip3UugGLvd-Hq4o4VdWK5Y1A8nJNbasPmUN5QCvwSDpFaOtLNUpdOQF0H-O7aitQcjOD98k-aR9fYc=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Rolex. This Submariner edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Rolex Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "Casio",
+    "name": "Casio Edifice 1",
+    "price": 8408,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOET2BzE8hrDj1BHOtZhPYPDvYXAKEsuT31tXtfJkM9qYz0GFqX8zqDWCUMiIpsY8tZwk3VpzYh8hKtr8Ex03HWWFCUKlCSRaMuBYwzELq-Z2cxOEE=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Casio. This Edifice edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Casio Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Calatrava 1",
+    "price": 9794,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNOOnmNkUPuhYQkcqnWH-VFW3eSrXPvrR9BRyU6o0ZRpDrocsWaLUTWR-bpyEh8IduPnk5w0iXAxi2j-prAcuCvOqHvnetKxjgRJnaeJHrb-OiEfZw=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Patek Philippe. This Calatrava edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Patek Philippe Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 4,
+    "brand": "Audemars Piguet",
+    "name": "Audemars Piguet Royal Oak 1",
+    "price": 37260,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOd8S-lOfW_GwdUmyTedc3PHsJs69Vj1h_QbY8CUYNGQ1m6BaOaFsmvlMIiEh64Qt4gjZPhaYdI_yMY8cwSJgcFFJfiMB8YP6WbmYt-5sRKZbY1WMc=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Audemars Piguet. This Royal Oak edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Audemars Piguet Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "Omega",
+    "name": "Omega Speedmaster 1",
+    "price": 46791,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMGxOr0WrfDipq3YvN4r6tyt_EY12AHfbaFDYbp-n428APTfep3fWm5gPST44IInoicIlD55PBNGJ5yRKnia4rTWweoQsP15rB6s7noeLw9IGFS7nY=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Omega. This Speedmaster edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Omega Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 6,
+    "brand": "Cartier",
+    "name": "Cartier Santos 1",
+    "price": 46095,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczO7v8XN6YE0GwYP8PzH2pOaV6PFLr2XUM0mT_xh4KznkyIa57pXtYihCZkKxldMhwMSEvJBKJq2IOVBxQbZN3r0EEqbd_SbdsYRusqQe4cu-BUGGlQ=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Cartier. This Santos edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Cartier Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 7,
+    "brand": "Hublot",
+    "name": "Hublot Big Bang 1",
+    "price": 34106,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczN3yE9CIoIyF6Ej6U2qDbhJHUJlkM5oB-9_HWvTei9rP8EFka85wOxkwQ8tWSUR5cBp7XPrIh36CdLIvulKO8tMwZTf1owvA5T7sTuKHQzq99UGx5o=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Hublot. This Big Bang edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Hublot Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 8,
+    "brand": "Tudor",
+    "name": "Tudor 1926 1",
+    "price": 45148,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNBYuI-JmJ-Snov92wWblcyVZHbXHVHd7QiQ1QqBO8dS5ooH1j7PaCTDOIRqyZij3uzfGOouZcfOeUv2RG5vQ9NczQcRIMeMZvEWTujI3UftntZRN0=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Tudor. This 1926 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tudor Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 9,
+    "brand": "Breitling",
+    "name": "Breitling Navitimer 1",
+    "price": 27510,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNUxn4ZDPYFsblW_W0tLpIH5zDBjnykGxJ3BtDHYOHpxErY7ADKD07U_AsuxyXLkK5HyTwWfvwm1Uj2CLa66H4cFwloFINx_COtbReh5pR5jV_X-WU=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Breitling. This Navitimer edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Breitling Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 10,
+    "brand": "Tag Heuer",
+    "name": "Tag Heuer Monaco 1",
+    "price": 42433,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMeO7wXcKwDiKhYC-hRJeBC13nvc4P9Jy5VVrHI5WgsODeziiX0NMBVdn9Vqxq6LWTBSF-w0OLhCwcEZZ7m11eDRkRAGU2m9yiFiiwHC56snQ8vU_Q=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Tag Heuer. This Monaco edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tag Heuer Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 11,
+    "brand": "Rolex",
+    "name": "Rolex Explorer 2",
+    "price": 43380,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPeyUn1cMKMpAc_s_RxPzTloaoi0wQZKvkTiGJ7ABGsV2Qy_EGzhKlFCfcrgfXBX2h8nMcKPFglTH49ysFocHw7S3imC9ujTWg_M3LdZO_UTNhBTJE=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Rolex. This Explorer edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Rolex Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 12,
+    "brand": "Casio",
+    "name": "Casio Edifice 2",
+    "price": 33544,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOkEB-TxI-QEuVZrVE8SNwUL80jSmTc_-gUSEVYa2LTXdAp8IgZaH0fTgGrbiTZIlGuc4YxhWoXzNC5UI8lFyJ-05qlBtXIxEcKuiGK5eyiB9XMLvA=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Casio. This Edifice edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Casio Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 13,
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Nautilus 2",
+    "price": 45799,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPxqJoSLnSSCuuBllbQikEqC1xkhGDVlA2IqaDzGwkfbaBnpvsK-OjC8F9hc4eWntHjEnX6aL8oxijQm2Azzzb4tHc2vB-CoPNGlqkDJ1BGi3Bqi7w=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Patek Philippe. This Nautilus edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Patek Philippe Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 14,
+    "brand": "Audemars Piguet",
+    "name": "Audemars Piguet Code 11.59 2",
+    "price": 11802,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPi4b0ez1vRHq3HvcnQZRVF7S_SnxG9XYHnI9BScQq3eNwBjQqFCzFYDmWdzYj8LEYltMUIdWeAhYpLTVMVglwMylo1Flwi0Lk2Z02Da2CDukKnPgk=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Audemars Piguet. This Code 11.59 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Audemars Piguet Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 15,
+    "brand": "Omega",
+    "name": "Omega Constellation 2",
+    "price": 22122,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPEoyYMyP1yKeWfpyUkK6xkm4RBXjVMIOeJbbfPY2b6du9Sy0iKP_dTqowToTMcAh7potILnPeU8VL9sLr086SSwTADke-lbXAbHrcqHtRw4GGxP2s=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Omega. This Constellation edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Omega Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 16,
+    "brand": "Cartier",
+    "name": "Cartier Panthère 2",
+    "price": 22453,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMSDC0EnyZioSkOsTKzQBGRL8s3BSTbiTKi9-x3S08o3jC-uiMLcCW8LOmqbMVya7XoEQtWE18XR8jbybbLVAKMn4h7Y8QRtl7qCXJUGx0iOxC-MdQ=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Cartier. This Panthère edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Cartier Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 17,
+    "brand": "Hublot",
+    "name": "Hublot Classic Fusion 2",
+    "price": 21456,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczN3LXAc1_PPGZC0Hx1CF9AVSnkaY9JugV0jmpvPyMlbjxzGt8XtTNvJ3VYw4j-gLi_y1ImV4beBL5Im59rJxdN09HYteGWV7C4RtLFRTHqJbDIMp_M=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Hublot. This Classic Fusion edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Hublot Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 18,
+    "brand": "Tudor",
+    "name": "Tudor Pelagos 2",
+    "price": 20588,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMSU5GZZS5kWpl5q9FBDVVJ_iiogLfjVcS_5km9kjVVHbzSQk9cxz6sNcLid9lxmqwhE9BAa82Pv_npL0K9C_yfWpVBkcJM5-6sAfhCBWwk1tU8EFI=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Tudor. This Pelagos edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tudor Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 19,
+    "brand": "Breitling",
+    "name": "Breitling Superocean 2",
+    "price": 36828,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPLl35qEfqUhoaPqpBZi0tIBEMFi4X0tg7lHW4vpT2G1VD4hBqPHyEdTOCZWXSbcKJ1EWuk7q1hZv7FNavv1Z5rphoKV1mSN8JaBwRm4AHICYXsBhs=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Breitling. This Superocean edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Breitling Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 20,
+    "brand": "Tag Heuer",
+    "name": "Tag Heuer Formula 1 2",
+    "price": 33380,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczM3yofAVE33coHClWkrlLeXOVtCG7A1iC8KZO-J-Xxtxjy0XuLLlpeMxaCE3WtaH9fL6vMqSdl2n--0-P-ShH_FwVZbVpiWI50JLbKsfQP3y3YuACI=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Tag Heuer. This Formula 1 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tag Heuer Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 21,
+    "brand": "Rolex",
+    "name": "Rolex Datejust 3",
+    "price": 16616,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNvNwYD8Lp_7pnge1uFXcDQ_3enL5tglZzJJeIssB8hsTcTlWi2L7P5hTDnEk1EHmwE2_rkUB2c3eR_kbpxEl5aC0CuDNSlX5CwMiASzDgKzmvs7MQ=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Rolex. This Datejust edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Rolex Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 22,
+    "brand": "Casio",
+    "name": "Casio Edifice 3",
+    "price": 10879,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczP2R8gnadaipogUhmf3pJ1Eyrm2ZjV-PujcjxwYBq_PPAC7XPeEvt-cd6Tju_PDpC5X8Gcq4300yHoHRIjfefPAWYNiJ7a4gOe5bnNq8QID0mD8nJM=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Casio. This Edifice edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Casio Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 23,
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Calatrava 3",
+    "price": 35125,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPTewwK1Wr6bs0-tPxPAyL4--fvg1cLFsn7MVMfdmzEl4XD2sWJAkbkY7ftY_8WZAwM1Jt1GZd1rdDh8_pLNUKBtBf9xeDdj75aEmKXn1xewAG5eCA=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Patek Philippe. This Calatrava edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Patek Philippe Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 24,
+    "brand": "Audemars Piguet",
+    "name": "Audemars Piguet Royal Oak Offshore 3",
+    "price": 20807,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNCKw7QeACtf71Yn9sbTudI_IqN6pPUt0QADO1xwt0M3_Cqb4_TLoY6YBygk7Q8pUeCllVopo_73sqVg0ggvZRilgedxXedEiPO1k4tmvkZN7iHz4A=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Audemars Piguet. This Royal Oak Offshore edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Audemars Piguet Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 25,
+    "brand": "Omega",
+    "name": "Omega Speedmaster 3",
+    "price": 27190,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNPrr0wpx34T2FciWMkkEm0muGVZ_v8RVePAB_mwSZFRizkzLrmu80j1ugSZxL4yXhe_N0mVt-DgvEn0oVqCVJMHzh8jf_4F7_b6yEvh2SrwybLOBg=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Omega. This Speedmaster edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Omega Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 26,
+    "brand": "Cartier",
+    "name": "Cartier Santos 3",
+    "price": 15028,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMzbgi0NOiGStH5jQ-ANqK4DO63ylq6Lfolh8yKUdrFM0sRvzYz0Jk9KiHoiQ09b8_16sjk_xK2v294eDrs6qLhLGbAgYUaRsGs1jwpDBSbVqoHe3M=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Cartier. This Santos edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Cartier Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 27,
+    "brand": "Hublot",
+    "name": "Hublot Spirit of Big Bang 3",
+    "price": 33876,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNNS-bJfCXXNglpp8HGFMYeC1hJiJV5IuwdvENC-D3cr8zGPk_BckTDA8iLiUm9LIS9v9sIkbiGVELgGfvBV1iVO-HnuGGlf12zG-kjrX83cWqD76E=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Hublot. This Spirit of Big Bang edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Hublot Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 28,
+    "brand": "Tudor",
+    "name": "Tudor 1926 3",
+    "price": 12558,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNNJ_rYACGNDy2OBWx5jpavdlskIr3vv3WxGnGDtEok9l-0bHo67BthWrbxGSObNuSFzLnBXfFIH4dbLcVZAwtTMP4O1M2fPOyfq2GCbWbLi3sXtRg=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Tudor. This 1926 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tudor Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 29,
+    "brand": "Breitling",
+    "name": "Breitling Navitimer 3",
+    "price": 16339,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOL21Y55ZZ7UiiBZcg0xr9JMakPu3vaI8pDc6o3WZm3y0R14TVaoxfixdncns3rHTKMjIOPdItZ4zehxESezFi0RE43-g8XP33ykupjhcXftVxuZlo=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Breitling. This Navitimer edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Breitling Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 30,
+    "brand": "Tag Heuer",
+    "name": "Tag Heuer Monaco 3",
+    "price": 15728,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczP053E6biZNQSHJsM3zq5C25Bjzglhd6sR_1GeI2f8b2yO7PMM4RS5DqXogPAW0aOHRF6M0lTSH6UOe5W35Pmosf2u9NCDiz_rPIIIVIaz27qz7GGM=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Tag Heuer. This Monaco edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tag Heuer Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 31,
+    "brand": "Rolex",
+    "name": "Rolex Submariner 4",
+    "price": 10247,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPXvtvbXomIxmGPuo64FoLg471mFqfHYO5lVwy1MU6oVFOMNIsdc3I8WJeWGzK8ymTPUYPogHCI9PadSaRXZLtLq59CBl26-mzhyXW8-jiU024xK6g=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Rolex. This Submariner edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Rolex Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 32,
+    "brand": "Casio",
+    "name": "Casio Edifice 4",
+    "price": 24640,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNVmx8mTwjhJOGE2RVp-CDalxDEJbBwp98ftayg-eTE2dn1lxmOgiilb07fOKk00kssqjceS5XWZ46QoLdX2zkRCGhfOE3QZlD_qp6Yg1Gmu2u8DiQ=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Casio. This Edifice edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Casio Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 33,
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Nautilus 4",
+    "price": 46217,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMzLDCzcl6mBz42lIql1Xysi8UqLPozvmbIBUmiBIft9Sy9ZGPjB0khZ6xBOd5aQJm0TkJt68Dc-mXj4An__T3eZFpKAraj166HJY0LwxYNjWkH7Fg=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Patek Philippe. This Nautilus edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Patek Philippe Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 34,
+    "brand": "Audemars Piguet",
+    "name": "Audemars Piguet Royal Oak 4",
+    "price": 38545,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNI0fkEjvjAAb-_VvyPOCPnVlWHjI5_LMqKwvXO1MuYBhXBSHxvG_-mv-wUiSHBE47vIZ7LpBoDce5kwYvZ2wZcvUPEB-MY-b7UJZP8yd98kg8l4_Y=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Audemars Piguet. This Royal Oak edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Audemars Piguet Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 35,
+    "brand": "Omega",
+    "name": "Omega Constellation 4",
+    "price": 18971,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczN13Aa-NMHwW7roqMCLqBdvbDBmrguR9L8SsO_rJMuvh72JNvSbvwxiOVgSXcUwNf9-mIpZtRRa18fL6sAKHSc3T4STtuOOqC-FA9BNDSJFbbT0MWc=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Omega. This Constellation edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Omega Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 36,
+    "brand": "Cartier",
+    "name": "Cartier Panthère 4",
+    "price": 45889,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPQC-rA_se2ojlxKx9U6DQZaiOsHLRz1ajAorKLnOFV1_phobzBe190z-MBVf1zvCA2IgiEua3yXSK1bpe9imGVxC0iQPndfqoFnEFyMd-PodTlo9g=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Cartier. This Panthère edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Cartier Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 37,
+    "brand": "Hublot",
+    "name": "Hublot Big Bang 4",
+    "price": 10511,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOIRLC_ZPV94AYGn7VOiSyBUwZRzDpufzbjAfs1yI__fNB9SoIv7ZAEpAZUgYqMhWaaH5bd7JYwc5NAk7GF8QnIWoEC5tOyxzyBycUEQtCzm_trRtc=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Hublot. This Big Bang edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Hublot Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 38,
+    "brand": "Tudor",
+    "name": "Tudor Pelagos 4",
+    "price": 15526,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOjR5SosxoJyh-WyxL-tF3xUpYZ8rx6aZCZK7ewSM_Zu9etlDi1u7W-x4GUlCuaNc4Bv_stICM_43n_cAk7wcZmCNA-8tCgw__KKIW7HBVsFYPsLws=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Tudor. This Pelagos edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tudor Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 39,
+    "brand": "Breitling",
+    "name": "Breitling Superocean 4",
+    "price": 8895,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczN-cL2-TsxP3jSPDYwRhKhrdVnGywAotG9dRouumTxu7CfS4pA5ahI9AfU3D0L6QAyrQLGElVqjEZfBpaMMa33W4P_1SYWT2OaI0BWQDHdrOb95NAU=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Breitling. This Superocean edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Breitling Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 40,
+    "brand": "Tag Heuer",
+    "name": "Tag Heuer Formula 1 4",
+    "price": 26380,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOf3jayDDWVDS_TLwfqP4rqOh2EYvuaxkJKYE-vGNJXV7oKSXYtLyvXBtJtVNa5-W9acsxmYeCY_EeDBQhFzLEJVUwxaXEhZ6a58gRpsuNHFTUeEWs=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Tag Heuer. This Formula 1 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tag Heuer Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 41,
+    "brand": "Rolex",
+    "name": "Rolex Explorer 5",
+    "price": 31450,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczM2LU2_nLywCsVNMb3yy-LdLCnJprI8NRBko9IP5dainlpw3cftD7LEtJrdRUxaDTUqXyGpq6WDl7c_W3wr1jelP37rHqz1ColEEHOET_o3Tkeuxqs=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Rolex. This Explorer edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Rolex Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 42,
+    "brand": "Casio",
+    "name": "Casio Edifice 5",
+    "price": 10327,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczM95dFSrCwr6jHJYPeIjKgLn20TXR8iLMXFtWobE0EVM8i1_SUqkL54B0RKgRxUoEnBGmEuexgVPX7mF0UiaUJMT5brsKHUgvMdBS5nJCIBMSH2tGo=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Casio. This Edifice edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Casio Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 43,
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Calatrava 5",
+    "price": 15005,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPOZ2DIF8CRo-M0_kJrHZ_ZKfYchrPCRDS8A31P9ga2COAwUPbZKLySWFL9Tc2itHcEYzkV92k6xj2Mg3EK0TKXmc7lEEi3rlMNvzN-s2Bj34OOexw=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Patek Philippe. This Calatrava edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Patek Philippe Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 44,
+    "brand": "Audemars Piguet",
+    "name": "Audemars Piguet Code 11.59 5",
+    "price": 14132,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczO08u3wz8FLp0Nq1e0drki5mMRoEbUTH4Jy6_ZFL7g__zMTCGLPgTc0wPQ83f36HLI66iq30Hm1hgP0iQq0zfgpVcXQZPNHq1-aupDVmO4ZRbbFQAk=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Audemars Piguet. This Code 11.59 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Audemars Piguet Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 45,
+    "brand": "Omega",
+    "name": "Omega Speedmaster 5",
+    "price": 41958,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNwAbDFSWMMbzc0Md396m43c8blUgiokeimpjVxcewrqob_3MJGpKG06ORQR03P0nmrkQWbBpkDXItYDvSTkOCwgmzwkXtLTaR3krMkU62uzUWM1gc=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Omega. This Speedmaster edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Omega Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 46,
+    "brand": "Cartier",
+    "name": "Cartier Santos 5",
+    "price": 46985,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPgNmlScAXXGWHEkrkXJgG32JRQW3u8WWXnBDxHfzY77idt3fX2CUTYUbiS0CBj8_eQ0k3Bor_B1UcTvyv9E9ryjIiI8Gcs3XPnmPfy_BR61-gwMpg=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Cartier. This Santos edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Cartier Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 47,
+    "brand": "Hublot",
+    "name": "Hublot Classic Fusion 5",
+    "price": 8277,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMya0kTt9XFrHbznOWIDEeWmBzvOkNqfRp2ycHex8lSxwz9SoaR1gosUtFxtEvp9HMgzpLBIkS-RUFFkUCVVXBtFXHUhZjUUsIMu49kjwIdrt-VrMo=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Hublot. This Classic Fusion edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Hublot Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 48,
+    "brand": "Tudor",
+    "name": "Tudor 1926 5",
+    "price": 24586,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPPvnltHHuocL3Qjp-7CvnWYZUkBcQvDCNYn-8-PElTBz3Aq-lIR4lDjfm2nhz8YuDpBtl8xAxgiSUVXoDMXHbMFWKCYXNuWEvqJJZYRofZBZDniTU=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Tudor. This 1926 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tudor Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 49,
+    "brand": "Breitling",
+    "name": "Breitling Navitimer 5",
+    "price": 23979,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPwGbANka66LmfazemSyD16OvqssaIBSUSbRQLQK2Tc8TA_DSJa3LjHX9i-Uy2i73cfOBVu4PneMLMpbAaZKUzO6wUmzrJzi9ptYk73FMTb02nX_Ao=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Breitling. This Navitimer edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Breitling Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 50,
+    "brand": "Tag Heuer",
+    "name": "Tag Heuer Monaco 5",
+    "price": 6037,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNBobuJ_4EfgCjw69HMZiwBEzp9Zag2Zz-W78L8gZCVJQ7We8HOEWiyO6uVjYyllCprwGl65DkCO9OorJ7y7mETvxrQaAWBUWGcftXxDHRDVARyMg8=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Tag Heuer. This Monaco edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tag Heuer Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 51,
+    "brand": "Rolex",
+    "name": "Rolex Datejust 6",
+    "price": 34805,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMS2TbeoIJCdXpfL-qDG7fdc0G2IZR8MXJ6TqMXq6hBuL8XAtPkvm6MN5tZK-bpwdbr8M0hyuDXMA0gtaYplfrGdNYCF-rRvKOufzy0RrNL0huHmX8=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Rolex. This Datejust edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Rolex Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 52,
+    "brand": "Casio",
+    "name": "Casio Edifice 6",
+    "price": 38938,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPL4jdkaJD3q2OxX3ZP5vUZhiCwIxrRjJxkKUa8870Pjh0LRugb7GGSLpXmvldcAySkfARIYLea0NhdUZeThI6AO6D5OrjCGKsLFgDofzDhk5Wpc3k=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Casio. This Edifice edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Casio Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 53,
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Nautilus 6",
+    "price": 29265,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczP9oP6dhbO8kKXPhG3CyDHu67hailwqwElVoyOgo1yC-0dVDVJSrY1HWI4mbikOC4HbcGmfM4JnGGFokxW3IKaS3YJTIMqtriLn-PprGAjQeH8cr4Y=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Patek Philippe. This Nautilus edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Patek Philippe Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 54,
+    "brand": "Audemars Piguet",
+    "name": "Audemars Piguet Royal Oak Offshore 6",
+    "price": 6938,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczORcj6eJ938iWHnQA82ebwV9qMvyOGhvGSLeucIxMXmYn_WbsCl-S2jnKwKmutyy5pc0fwiAtAHK_a58S-aOI4l9tyDkWxsEiJrTMz4M3_qEN-yuZY=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Audemars Piguet. This Royal Oak Offshore edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Audemars Piguet Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 55,
+    "brand": "Omega",
+    "name": "Omega Constellation 6",
+    "price": 11326,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczP91n5MimxZPbIkohjwD-zAXSqo76H_F7wwU_YRwSSQS55BTu5Q0u4Wb48PvK8o1TyWCfLBpU1gGWA6PQK3a-FuJHHH_7OwGK27QEVzZgjDNfOAqNs=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Omega. This Constellation edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Omega Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 56,
+    "brand": "Cartier",
+    "name": "Cartier Panthère 6",
+    "price": 24850,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNrrUYPJkSEKBESKo_BhN8ahi9hw1dkTx2Av0OTeRFMfcamId-RL9FJgAApkEYqv3KOBzOFXjNnX2tat3ntrh_zl6zzuSjpeinkZ_t94rSS_tA7n7w=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Cartier. This Panthère edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Cartier Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 57,
+    "brand": "Hublot",
+    "name": "Hublot Spirit of Big Bang 6",
+    "price": 43509,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOzxpjCNpv1Uv8oKNyhg4qLqJ1SZaVSOvPZWJo6Ysn-0sRcipEPt1bO4TmsQW5IJsl-cAeZDl-s_s-j9lB_-m0Xq-2IoQ6LaN2tToEBLezHb2osjxw=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Hublot. This Spirit of Big Bang edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Hublot Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 58,
+    "brand": "Tudor",
+    "name": "Tudor Pelagos 6",
+    "price": 15869,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPemkraNSxUVukHduLsawvoVF8Oe5gcedLBI3GMDulmufD3w9pOGK0whScZJuIzBsAn8GrJlvTUDiGp7N9gIelhkvPzTEyPjgWuhtvWoIfZaGgIS6Q=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Tudor. This Pelagos edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tudor Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 59,
+    "brand": "Breitling",
+    "name": "Breitling Superocean 6",
+    "price": 38213,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMvlOa5sRvobO51vMNZc1iV34okot8gu9oAru443LYq1yCaFQkPdR165VAyY3ooTPoOHftVxAo2at-aVXae3M2Fi404QPooBEOccSLVxkuA1P5miNQ=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Breitling. This Superocean edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Breitling Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 60,
+    "brand": "Tag Heuer",
+    "name": "Tag Heuer Formula 1 6",
+    "price": 36119,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOeqqe4xQTH_RiJDFQYs9ZzbmSJ2BiCcYhwJGEM2vTUw37gKc8ZyCzXrTFJfb8hq7sggfQqKt3NPeaeQehaso4AhREUALSVup4P_G8QIiROMnvdi3M=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Tag Heuer. This Formula 1 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tag Heuer Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 61,
+    "brand": "Rolex",
+    "name": "Rolex Submariner 7",
+    "price": 38712,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczN5SGw3laicKBZ1xrzkfXG4f8uXYlc11J3xxU4Mj1pFqzEt4UEhNa-K5Buf85UDp34ryShYJADL-qn_Vj6gj5FVS9jXoei4vUggG6S2gk7TlcZv-cU=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Rolex. This Submariner edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Rolex Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 62,
+    "brand": "Casio",
+    "name": "Casio Edifice 7",
+    "price": 43695,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNl5LYpHv3bAckSpvV4_3ty_jF0C3vLxzXNanwfqn6Jv8Vq4BmrW36yIP33hViZdtTeZXjU-4goBCd201271SItgnuGvDA55_g8ryC6N0WU6LLkSKY=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Casio. This Edifice edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Casio Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 63,
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Calatrava 7",
+    "price": 15499,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPcOGleihOhKeo8IORmRsKJV5O-KDURyBFztE3Fhyaze6naHdZuqFtZQip0ig5eQEaCNcmoLRxBTg9Cdm5SOeZrFYb-NLNb57so9KXg9RPStlWHvaM=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Patek Philippe. This Calatrava edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Patek Philippe Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 64,
+    "brand": "Audemars Piguet",
+    "name": "Audemars Piguet Royal Oak 7",
+    "price": 29011,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczO9WaO4KDuou20hRoJDnpapQntNiHLELPiJoEdyfQgxNW9lJJDd_iiCNq_PLaUQCkA0JbFtM_1WBpFNjQ6WClQ_itxHgQLuikeufXsiEsVz6jxLZAE=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Audemars Piguet. This Royal Oak edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Audemars Piguet Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 65,
+    "brand": "Omega",
+    "name": "Omega Speedmaster 7",
+    "price": 19463,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOiCrtlEvDDlJn2lt2hhBupSepFL_uD39JMBMRLCF44GLleEc2lO8D2e4gq_83feLOJpdF69j1gxbIWk47J_Mp4GmbjSZqFrGrl2vWp0AOOIG-dICE=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Omega. This Speedmaster edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Omega Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 66,
+    "brand": "Cartier",
+    "name": "Cartier Santos 7",
+    "price": 44298,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMNDkf_aNBHXZHFAdfQr9Eoid5-xurEGqjFDyIFRLn7TN4UmKhd06Sl-6g0xgwY-UyrV5q815iScfzRq3OLnAUfwET7BSYKy7r6U_puWCIkPUNZNqE=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Cartier. This Santos edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Cartier Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 67,
+    "brand": "Hublot",
+    "name": "Hublot Big Bang 7",
+    "price": 19211,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPML2d4cCAOxGzIOgsor3GWLuL5snQh7cZzrYbea8It73BWZQPXDMVMVI8UNBsq8wthetErxXiSnaU-fO24PDSyG6PsaDm-F8EAp865Dse35xABIu8=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Hublot. This Big Bang edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Hublot Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 68,
+    "brand": "Tudor",
+    "name": "Tudor 1926 7",
+    "price": 12669,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNfBqPn3CmnGRcs-WqcjrdqTNfSdUztbtGGjAdHg2LmBA-0RTuVfeiLtAhWhVQRbCQ7xtWsv1bCyuOo7Lu8RzsuwdxbZ8_r5sx5CNKMFi_5TG1DDBg=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Tudor. This 1926 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tudor Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 69,
+    "brand": "Breitling",
+    "name": "Breitling Navitimer 7",
+    "price": 38558,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNwnrCqtK5TFxHODmUv-1_H2z2A2sPOZ8MVdLj2AdhqeoI7tZiclpJEBXVwcOa5mbAuc_g3FgXVk69_a1HmBKYPta93l7Foy9t2nC8L9aGfSvkj630=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Breitling. This Navitimer edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Breitling Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 70,
+    "brand": "Tag Heuer",
+    "name": "Tag Heuer Monaco 7",
+    "price": 33608,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMmSERu8PhopIZgX0kcn71bUQfYw3E6vJeDSl1Iv_4Rls1WKzRw5v3owTrtg_6ZFj4jJapn15fJjDfgEIgC01gqynPTgvXzXTCszhg3ajQ9sxplTZE=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Tag Heuer. This Monaco edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tag Heuer Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 71,
+    "brand": "Rolex",
+    "name": "Rolex Explorer 8",
+    "price": 13145,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPoSdNIrniHmuc9CtWBLiafIYAls31cKboXwMfP0WYXpExeLkbdFZSRjeg0W-7H2IAeQp96pzGHsx1BZPrDOM7IS66R7SgKDXgJ3QTHWhmN6LSDGqs=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Rolex. This Explorer edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Rolex Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 72,
+    "brand": "Casio",
+    "name": "Casio Edifice 8",
+    "price": 27504,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPsIsLGwfRtli3zaeO-8QJq4iLaDmP2TFjFzepWDIKQGYrbPb58_t2e3b2FPPb8Gii6wOcDuxCwkpBL4ZrxQKkcgaSQ33f3g4o_ZyLHU3omZFQpssA=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Casio. This Edifice edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Casio Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 73,
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Nautilus 8",
+    "price": 29644,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczM7XCoTEOqJfvXLidWnZPwoYCVHu0N51CrTOGpeI6smX6gznai8-EKr125DRpjquqxV_10OvYkFvoKZcmscE_3BN1eCVkX0ba5nFHYGOiAQPB5Ku4s=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Patek Philippe. This Nautilus edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Patek Philippe Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 74,
+    "brand": "Audemars Piguet",
+    "name": "Audemars Piguet Code 11.59 8",
+    "price": 37649,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOcMrAIs40ZtiZtbNq0uogDlDLXp9hK79SWw8wWvCHsgUDq-jowbhvpv6c_DiawWpTi4MI6v23ulfkW8v-jieAfeL5lIwUKiMZR-SCqvyaK-SHlY-w=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Audemars Piguet. This Code 11.59 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Audemars Piguet Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 75,
+    "brand": "Omega",
+    "name": "Omega Constellation 8",
+    "price": 34481,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczN4usHzMG6bzksaz2ZTfAJNnkhx439eGdXnPMIsUYZiGlfhL7aeJVS_YqgVHAXYs6ICTqlmQQkKbu04sgP_eAzEg2KaOM8eWK7LPAeRlICQP16O83s=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Omega. This Constellation edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Omega Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 76,
+    "brand": "Cartier",
+    "name": "Cartier Panthère 8",
+    "price": 18162,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMf2FjkYJL91XW2ldcPrfYboU87DhvxERujoCm4_p4J3TaC4K2wELF85YKcvJw-WIbIlph5rFQBzaNuMT0WEsJhmRBekmYFjAda4_BLN6BdgjFt4go=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Cartier. This Panthère edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Cartier Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 77,
+    "brand": "Hublot",
+    "name": "Hublot Classic Fusion 8",
+    "price": 36424,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOCqzmxAMwBBFIRDisELeBApA_ZzSLd6ATHBKdYN3IyBOTqw6HJlQwuVH9B-f5gCy9W9rqG5MaXJiMn_1o296Tz3AzyT_nwOgT-LBReTXvEU-l85Rs=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Hublot. This Classic Fusion edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Hublot Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 78,
+    "brand": "Tudor",
+    "name": "Tudor Pelagos 8",
+    "price": 6887,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPmclrJYuxqHScXZCTTfz1UGBeZG0DPt19Rm16a7scU6nJ_VUUNyWlq-meRUX7IB_x6yCK9z9K-bbqN3BbD6nzyKLOOScn5H_U-KAD-cKxLJFJz6Lk=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Tudor. This Pelagos edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tudor Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 79,
+    "brand": "Breitling",
+    "name": "Breitling Superocean 8",
+    "price": 29270,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczP_sYocRVMeAMYa5sM-4iQmOyE11UgsOeYHCE5Ncbk2ms7BOl1F427QVk9lQsNKVkcHQ9UpWN2XkSi2bAjmrzO7FcKBdiRAxLp1FGYkDax7qjXWOAc=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Breitling. This Superocean edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Breitling Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 80,
+    "brand": "Tag Heuer",
+    "name": "Tag Heuer Formula 1 8",
+    "price": 31258,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOGq9ZjGyPK0a-SN2nxIbbEoHM4_LL6pA9wwfOLV-YUY0O81ylvpXwNmvFczfnxDXJaGv23ryLfZe6I4TrCiJBoAuMYQ1clI50lEoojK9-AYOAhzLo=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Tag Heuer. This Formula 1 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tag Heuer Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 81,
+    "brand": "Rolex",
+    "name": "Rolex Datejust 9",
+    "price": 26263,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMXn37fxMK1EC7IssQ5YB5da7WETa0DXK1FgIinP1XyZbAS0GAkx1sn8KUpbcua7abXDRWyc-GglFtwUpNfSRrQ-1jCawgUxwTT3QvsSIKYj7lI53I=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Rolex. This Datejust edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Rolex Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 82,
+    "brand": "Casio",
+    "name": "Casio Edifice 9",
+    "price": 32536,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOW6eH6gOZRnFGSsuEEX0h7kWuMi0hjUKzxH7oPPPt1pxaQiwF5Th8MjKJir4QlFiQofNIaZ3tAYAu4pKGAaCwiLjZIfVeYpv3L6d0sd8jbcsX2Jxg=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Casio. This Edifice edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Casio Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 83,
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Calatrava 9",
+    "price": 46170,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOx8SLIYqKZaCaYx3YxrFI9baPtNTJes7d3o9X6DWG7PHsCH98hoHHm1VSLLH11RSndaDMwC8qnx9JcwL93jflxRGLw2udZEoK7yA1uLg9oQwYzwHE=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Patek Philippe. This Calatrava edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Patek Philippe Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 84,
+    "brand": "Audemars Piguet",
+    "name": "Audemars Piguet Royal Oak Offshore 9",
+    "price": 10219,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMZLFLlRfm8O0IiaRxlz9yht3LFZQ-NkIzbrVCE2TEI41HyUKIm5LfKkyXukfzfwM-NlacJ2AcJj852Gcq8kUFJ2W4LsR4I4n8y1IEHMMwjTvT9D4A=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Audemars Piguet. This Royal Oak Offshore edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Audemars Piguet Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 85,
+    "brand": "Omega",
+    "name": "Omega Speedmaster 9",
+    "price": 8166,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOixisWKncT3tU3BuzHWo4iNCoYivvyMfQF05bw4QbP1FYkE_x2CYpoCXFktrLib98ezGdt3dO_Bxy8uxddTg0NzEHHs33FzC7RNzChq0h9GRYr4XI=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Omega. This Speedmaster edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Omega Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 86,
+    "brand": "Cartier",
+    "name": "Cartier Santos 9",
+    "price": 46606,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOtQVZI4iVMZscCJ65_s6-PamNxazjsypN_K5j0TXf7vRCLtY2s9xtNf_05WxEB42Q2Nm3NVHR65kM6zMSfjM1W2HAVqBRyGSEZR9Kr7RVow-k8V08=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Cartier. This Santos edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Cartier Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 87,
+    "brand": "Hublot",
+    "name": "Hublot Spirit of Big Bang 9",
+    "price": 28509,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOORSPwV42xhS_oV7YT7SLsg-HRrsVQO5I0eD3hNSZn9t5xiNR44GUYlYJONioyTn4pGgXnQTkX1AyWS_GZ96U7jiztLkt9e6nO5nTJz6_Z0wh1Bkg=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Hublot. This Spirit of Big Bang edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Hublot Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 88,
+    "brand": "Tudor",
+    "name": "Tudor 1926 9",
+    "price": 41495,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNaeadueGqsp0R52Hu0-Vxed2VdyeYrTSz3BXb7I_XPq5lTM2RKMkRikFIlvQPiT6dS_ubqvgi1rkjXWRHNTJ9WF027VyVwRbZruDhAHBMQ_oDzvhk=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Tudor. This 1926 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tudor Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 89,
+    "brand": "Breitling",
+    "name": "Breitling Navitimer 9",
+    "price": 36951,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczO1OTciRwCrCRrSaOKSRDG79rbclkuvQn_EXOsUJxsAG8-AonLHw8u5DDGFI3w1NcRCfVYxHR1AkNkLpxwXUswHGZRT618Ugp2-QPLT1wWI32AJrOo=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Breitling. This Navitimer edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Breitling Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 90,
+    "brand": "Tag Heuer",
+    "name": "Tag Heuer Monaco 9",
+    "price": 47630,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMNV64hFQEV5IO3DtGQBsIzEAjIM3IdFyfQgTukk4qEWrIBG2Iy1pBsDhT4-Qj-K3kOfAHZNUPzAX2OBYjNNj5awZDFPuiOPJN7FKYepVwbd6AO6KA=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Tag Heuer. This Monaco edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tag Heuer Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 91,
+    "brand": "Rolex",
+    "name": "Rolex Submariner 10",
+    "price": 8565,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMypQRO5sih-mZQFTXMPn7IrKzuHPZBI9ac6Tdb118XqpefgJoQWa2MAd748IySeGPVXVOrMyvNvaRDYseV7bj11pUCUrb09VS6MnOoR_b-pmEHqkw=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Rolex. This Submariner edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Rolex Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 92,
+    "brand": "Casio",
+    "name": "Casio Edifice 10",
+    "price": 21034,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOke4fV90t8JDWcSvKjFRP6xlnbz72kOqcaWcr_u7eij5phfjMkoprVH08rq89a0NJLy5nDHBkCz4I_VNAzcwXeOfZRpxLmZSuoTJ1QK4QkHCg-VqA=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Casio. This Edifice edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Casio Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 93,
+    "brand": "Patek Philippe",
+    "name": "Patek Philippe Nautilus 10",
+    "price": 24578,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNjPhsAWFmBpfLNOQ29-5SC7eCmbgkYMTOmnPMkCFvFqQ39eqwGgCHbHXPk-kEp73rfeGM8JNXwtPE4uFY76X2A2H0umQM8KuSQpiws-ND2GHbr0eI=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Patek Philippe. This Nautilus edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Patek Philippe Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 94,
+    "brand": "Audemars Piguet",
+    "name": "Audemars Piguet Royal Oak 10",
+    "price": 15597,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczM2BjX-y1nArhgSAYmNWzjzjBbKso30jh_hWviT9rTmE72VTYPw5GJ_LZg7JhIvL2I6W6wE04-cKiCTUAJ0qx6XkwCZMfw58l-w4HlDeepEtzTAYFo=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Audemars Piguet. This Royal Oak edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Audemars Piguet Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 95,
+    "brand": "Omega",
+    "name": "Omega Constellation 10",
+    "price": 10020,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOJGnkCrpv-FTS7Edx8Cijy8qMk_pA657YTOU1rWH7gjFhGyMYVcwrTrJuID7ha3_YYnBZY2eHMBX1ZV_hBiguORWEB62IS365pZ3mIG72o7pCLsbw=w1000",
+    "category": "Diver",
+    "description": "A masterpiece of horology from Omega. This Constellation edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Omega Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 96,
+    "brand": "Cartier",
+    "name": "Cartier Panthère 10",
+    "price": 13477,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczPxx5L_uOiTa34KMFz4gTTsOJAXKFLxTwj1PWICwbJkA5XPZK1Sj2VLgKD3SRmX-wl8N2onmsBxqZzfR3IYmBdiaSVRcQR8lTSTu0H12szbYW5CKhA=w1000",
+    "category": "Executive",
+    "description": "A masterpiece of horology from Cartier. This Panthère edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Cartier Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 97,
+    "brand": "Hublot",
+    "name": "Hublot Big Bang 10",
+    "price": 13972,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczP76Flkx5bRFm4MjRzVhUJQw_f9gQwOBYsTkumkWkx3zTYgWppficpemoaRqBftkzqD7a_6TTDNRYC21zTS_2LZS1i7OiaXt3D-aPzdnsFcazmuEmY=w1000",
+    "category": "Classic",
+    "description": "A masterpiece of horology from Hublot. This Big Bang edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Hublot Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 98,
+    "brand": "Tudor",
+    "name": "Tudor Pelagos 10",
+    "price": 8998,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNSmMsRH2PccnXapzjwSyH1DldLAOYFZby1GbZKoT2iQhZBJ9F7Ccs27BfRZt8n3nF0OrYGM-MCbGVmwqkgIuhBQzZOQ79CdO8oZBJJhFnc28X0Emk=w1000",
+    "category": "Sport",
+    "description": "A masterpiece of horology from Tudor. This Pelagos edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tudor Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 99,
+    "brand": "Breitling",
+    "name": "Breitling Superocean 10",
+    "price": 19080,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOz2LwzUJN9lgrgIBYAwszUKiUIQtCm29w9TUhqKHhgflSqJrHss4ePw77wUbnKmcvM7XJTtdvDLbd2cT4XXPK9iYerY-YvftKb2CI8_viRnPS3i_U=w1000",
+    "category": "Luxury",
+    "description": "A masterpiece of horology from Breitling. This Superocean edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Breitling Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  },
+  {
+    "id": 100,
+    "brand": "Tag Heuer",
+    "name": "Tag Heuer Formula 1 10",
+    "price": 10529,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczP39OthyVrXyo5YL0_ptitquW3yNDOVctUxMBjeHELcXbasrXMU4ropAuinQP1a5ERI5qB1ngkdAK8HFGWRTxGfEclfzGmqgdSOE4Hzu-npc1ATvXs=w1000",
+    "category": "Minimalist",
+    "description": "A masterpiece of horology from Tag Heuer. This Formula 1 edition represents the pinnacle of craftsmanship and timeless design.",
+    "features": [
+      "Premium Tag Heuer Movement",
+      "Water Resistant",
+      "Sapphire Crystal"
+    ]
+  }
+]
